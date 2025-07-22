@@ -1,3 +1,3 @@
 # someRepo
 
-some information
+some extra information
